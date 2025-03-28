@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Custom XMLTV">
+
+    <channel id="TodoNoticias">
+        <display-name>Todo Noticias</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" />
+    </channel>
+    <channel id="ElTrece">
+        <display-name>El Trece</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" />
+    </channel>
+    <channel id="3ABNLatino.us">
+        <display-name>3ABN Latino</display-name>
+        <icon src="https://i.imgur.com/If6rCuD.png" />
+    </channel>
+
+    <programme start="20250327060000 +0000" stop="20250327080000 +0000" channel="TodoNoticias">
+        <title>Noticias de la Mañana</title>
+        <desc>Las principales noticias del día.</desc>
+    </programme>
+    <programme start="20250327080000 +0000" stop="20250327100000 +0000" channel="TodoNoticias">
+        <title>Noticias en Vivo</title>
+        <desc>Reportes y análisis en tiempo real.</desc>
+    </programme>
+
+    <programme start="20250327060000 +0000" stop="20250327080000 +0000" channel="ElTrece">
+        <title>Despierta con El Trece</title>
+        <desc>Magazine matutino con actualidad y entretenimiento.</desc>
+    </programme>
+
+    <programme start="20250327060000 +0000" stop="20250327070000 +0000" channel="3ABNLatino.us">
+        <title>Mensajes de Esperanza</title>
+        <desc>Programa religioso con mensajes motivacionales.</desc>
+    </programme>
+</tv>
