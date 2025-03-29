@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TodoNoticias" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="Noticias",Todo Noticias
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="TodoNoticias" tvg-name="Los Simpsons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="Diversion",Los Simpsons
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Aire",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
