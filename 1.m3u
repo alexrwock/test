@@ -3,7 +3,7 @@
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Aire",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzQzNTMxNDM2Iiwic2lwIjoiMTkwLjU1LjIzNC4xMTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvQ2FuYWw3L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwZjlhOWIwYTc2NDBhYmIzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjEwNSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.PSHat-5I-0sAcNxtkL2JFqVEdfvgs6ovjVlt2RAt_8-vDljxdcqOsaXwJ66zVXXBKU9Ok5HLDuIuk6S22U_EZQ==/live/c4eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
 #EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Religious",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
