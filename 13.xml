@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="El Trece">
+        <display-name>El Trece</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"/>
+    </channel>
+    <programme start="2025-03-30T00:10:00Z" stop="2025-03-30T01:10:00Z" channel="El Trece">
+        <title lang="es">La noche de Mirtha</title>
+        <desc lang="es">Programa de entretenimiento y actualidad conducido por Mirtha Legrand.</desc>
+        <category lang="es">Talk Show</category>
+        <icon src="https://some-image-url1.jpg"/>
+    </programme>
+    <programme start="2025-03-30T01:10:00Z" stop="2025-03-30T02:10:00Z" channel="El Trece">
+        <title lang="es">Resto del mundo</title>
+        <desc lang="es">Programa de viajes y cultura internacional.</desc>
+        <category lang="es">Travel</category>
+        <icon src="https://some-image-url2.jpg"/>
+    </programme>
+    <programme start="2025-03-30T02:10:00Z" stop="2025-03-30T03:10:00Z" channel="El Trece">
+        <title lang="es">Cucinare</title>
+        <desc lang="es">Programa de cocina con recetas fáciles y deliciosas.</desc>
+        <category lang="es">Cooking</category>
+        <icon src="https://some-image-url3.jpg"/>
+    </programme>
+    <programme start="2025-03-30T03:10:00Z" stop="2025-03-30T03:30:00Z" channel="El Trece">
+        <title lang="es">Fin de transmisión</title>
+        <desc lang="es">Finaliza la transmisión del día.</desc>
+        <category lang="es">End</category>
+    </programme>
+    <programme start="2025-03-30T03:30:00Z" stop="2025-03-30T04:30:00Z" channel="El Trece">
+        <title lang="es">Panam y circo</title>
+        <desc lang="es">Espectáculo de entretenimiento familiar con música y payasos.</desc>
+        <category lang="es">Family</category>
+        <icon src="https://some-image-url4.jpg"/>
+    </programme>
+    <programme start="2025-03-30T04:30:00Z" stop="2025-03-30T05:30:00Z" channel="El Trece">
+        <title lang="es">Soy Muni</title>
+        <desc lang="es">Programa de comedia local con situaciones cotidianas.</desc>
+        <category lang="es">Comedy</category>
+        <icon src="https://some-image-url5.jpg"/>
+    </programme>
+    <programme start="2025-03-30T05:30:00Z" stop="2025-03-30T06:30:00Z" channel="El Trece">
+        <title lang="es">El Garage</title>
+        <desc lang="es">Programa de música y entrevistas con bandas y artistas.</desc>
+        <category lang="es">Music</category>
+        <icon src="https://some-image-url6.jpg"/>
+    </programme>
+    <programme start="2025-03-30T06:30:00Z" stop="2025-03-30T07:30:00Z" channel="El Trece">
+        <title lang="es">Umma</title>
+        <desc lang="es">Película de drama familiar.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://some-image-url7.jpg"/>
+    </programme>
+    <programme start="2025-03-30T07:30:00Z" stop="2025-03-30T08:30:00Z" channel="El Trece">
+        <title lang="es">El fútbol o yo</title>
+        <desc lang="es">Comedia sobre un hombre dividido entre su amor por el fútbol y su relación.</desc>
+        <category lang="es">Comedy</category>
+        <icon src="https://some-image-url8.jpg"/>
+    </programme>
+    <programme start="2025-03-30T08:30:00Z" stop="2025-03-30T09:30:00Z" channel="El Trece">
+        <title lang="es">Almorzando con Juana</title>
+        <desc lang="es">Programa de entrevistas y cocina.</desc>
+        <category lang="es">Talk Show</category>
+        <icon src="https://some-image-url9.jpg"/>
+    </programme>
+    <programme start="2025-03-30T09:30:00Z" stop="2025-03-30T11:00:00Z" channel="El Trece">
+        <title lang="es">El paciente inglés</title>
+        <desc lang="es">Película dramática de romance ambientada en la Segunda Guerra Mundial.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://some-image-url10.jpg"/>
+    </programme>
+    <programme start="2025-03-30T11:00:00Z" stop="2025-03-30T12:00:00Z" channel="El Trece">
+        <title lang="es">Venganza despiadada</title>
+        <desc lang="es">Película de acción sobre una mujer que busca vengarse de quienes destruyeron su vida.</desc>
+        <category lang="es">Action</category>
+        <icon src="https://some-image-url11.jpg"/>
+    </programme>
+    <programme start="2025-03-30T12:00:00Z" stop="2025-03-30T13:00:00Z" channel="El Trece">
+        <title lang="es">Air: la historia detrás del logo</title>
+        <desc lang="es">Documental sobre la creación del famoso logo de Nike.</desc>
+        <category lang="es">Documentary</category>
+        <icon src="https://some-image-url12.jpg"/>
+    </programme>
+    <programme start="2025-03-30T13:00:00Z" stop="2025-03-30T14:00:00Z" channel="El Trece">
+        <title lang="es">Línea de emergencia</title>
+        <desc lang="es">Programa de noticias sobre emergencias y sucesos de actualidad.</desc>
+        <category lang="es">News</category>
+        <icon src="https://some-image-url13.jpg"/>
+    </programme>
+    <programme start="2025-03-30T14:00:00Z" stop="2025-03-30T15:00:00Z" channel="El Trece">
+        <title lang="es">Pasión por el fútbol</title>
+        <desc lang="es">Programa deportivo sobre el fútbol argentino.</desc>
+        <category lang="es">Sports</category>
+        <icon src="https://some-image-url14.jpg"/>
+    </programme>
+    <programme start="2025-03-30T15:00:00Z" stop="2025-03-30T16:00:00Z" channel="El Trece">
+        <title lang="es">Cucinare</title>
+        <desc lang="es">Programa de cocina con recetas fáciles y deliciosas.</desc>
+        <category lang="es">Cooking</category>
+        <icon src="https://some-image-url15.jpg"/>
+    </programme>
+    <programme start="2025-03-30T16:00:00Z" stop="2025-03-30T17:00:00Z" channel="El Trece">
+        <title lang="es">Fin de transmisión</title>
+        <desc lang="es">Finaliza la transmisión del día.</desc>
+        <category lang="es">End</category>
+    </programme>
+    <programme start="2025-03-30T17:00:00Z" stop="2025-03-30T18:00:00Z" channel="El Trece">
+        <title lang="es">Tiempo del tiempo</title>
+        <desc lang="es">Programa sobre el clima y el pronóstico meteorológico.</desc>
+        <category lang="es">Weather</category>
+        <icon src="https://some-image-url16.jpg"/>
+    </programme>
+    <programme start="2025-03-30T18:00:00Z" stop="2025-03-30T19:00:00Z" channel="El Trece">
+        <title lang="es">Arriba argentinos</title>
+        <desc lang="es">Programa de actualidad y entretenimiento con entrevistas.</desc>
+        <category lang="es">Talk Show</category>
+        <icon src="https://some-image-url17.jpg"/>
+    </programme>
+    <programme start="2025-03-30T19:00:00Z" stop="2025-03-30T20:00:00Z" channel="El Trece">
+        <title lang="es">Mujeres argentinas</title>
+        <desc lang="es">Programa sobre las mujeres argentinas y su rol en la sociedad.</desc>
+        <category lang="es">Talk Show</category>
+        <icon src="https://some-image-url18.jpg"/>
+    </programme>
+    <programme start="2025-03-30T20:00:00Z" stop="2025-03-30T21:00:00Z" channel="El Trece">
+        <title lang="es">Puro show</title>
+        <desc lang="es">Espectáculo de comedia y música en vivo.</desc>
+        <category lang="es">Entertainment</category>
+        <icon src="https://some-image-url19.jpg"/>
+    </programme>
+    <programme start="2025-03-30T21:00:00Z" stop="2025-03-30T22:00:00Z" channel="El Trece">
+        <title lang="es">El zorro</title>
+        <desc lang="es">Serie de aventuras sobre un héroe mexicano en la California colonial.</desc>
+        <category lang="es">Action</category>
+        <icon src="https://some-image-url20.jpg"/>
+    </programme>
+    <programme start="2025-03-30T22:00:00Z" stop="2025-03-30T23:00:00Z" channel="El Trece">
+        <title lang="es">Mediodía noticias</title>
+        <desc lang="es">Programa de noticias del mediodía con lo más importante del día.</desc>
+        <category lang="es">News</category>
+        <icon src="https://some-image-url21.jpg"/>
+    </programme>
+    <programme start="2025-03-30T23:00:00Z" stop="2025-03-30T00:00:00Z" channel="El Trece">
+        <title lang="es">Viviana en vivo</title>
+        <desc lang="es">Programa de entrevistas y actualidad conducido por Viviana Canosa.</desc>
+        <category lang="es">Talk Show</category>
+        <icon src="https://some-image-url22.jpg"/>
+    </programme>
+    <programme start="2025-03-30T00:00:00Z" stop="2025-03-30T01:00:00Z" channel="El Trece">
+        <title lang="es">Cuestión de peso</title>
+        <desc lang="es">Reality show sobre personas que luchan contra el sobrepeso.</desc>
+        <category lang="es">Reality</category>
+        <icon src="https://some-image-url23.jpg"/>
+    </programme>
+    <programme start="2025-03-30T01:00:00Z" stop="2025-03-30T02:00:00Z" channel="El Trece">
+        <title lang="es">Los 8 escalones</title>
+        <desc lang="es">Juego de preguntas y respuestas con premios.</desc>
+        <category lang="es">Game Show</category>
+        <icon src="https://some-image-url24.jpg"/>
+    </programme>
+    <programme start="2025-03-30T02:00:00Z" stop="2025-03-30T03:00:00Z" channel="El Trece">
+        <title lang="es">Telenoche</title>
+        <desc lang="es">Programa de noticias nocturno con lo más destacado del día.</desc>
+        <category lang="es">News</category>
+        <icon src="https://some-image-url25.jpg"/>
+    </programme>
+</tv>
